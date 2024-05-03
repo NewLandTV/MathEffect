@@ -18,7 +18,7 @@ int main()
         // ax+b=c
         std::cout << a << 'x';
 
-        if (c >= 0)
+        if (b >= 0)
         {
             std::cout << '+';
         }
