@@ -1,2 +1,2 @@
-gcc Test.cpp -o Test
-Test
+g++ %1.cpp -o %1
+%1
