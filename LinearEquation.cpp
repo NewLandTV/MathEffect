@@ -11,12 +11,21 @@ int main()
     {
         int a = rand() % 10 - 5;   // -5 <= a <= 4
         int b = rand() % 10 - 5;   // -5 <= b <= 4
-        int x = rand() % 10;    // 0 <= x < 10
+        int x = rand() % 10 + 1;    // 1 <= x <= 10
         int c = a * x + b;
         int input;
 
         // ax+b=c
-        std::cout << a << 'x';
+        if (a == -1)
+        {
+            std::cout << '-';
+        }
+        else if (a != 1)
+        {
+            std::cout << a;
+        }
+
+        std::cout << 'x';
 
         if (b >= 0)
         {
