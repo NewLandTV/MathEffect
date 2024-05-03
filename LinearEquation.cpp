@@ -15,6 +15,11 @@ int main()
         int c = a * x + b;
         int input;
 
+        if (a == 0)
+        {
+            x = 0;
+        }
+
         // ax+b=c
         if (a == -1)
         {
