@@ -1,0 +1,1 @@
+g++ -o out %1.cpp MySound.cpp
