@@ -2,6 +2,17 @@
 
 This is a project that applies mathematics.
 
+# **Contents(컨텐츠)**
+
+* Finis Vitae OST - Decarbonist
+* Linear Equation
+* Graph
+* Quadratic Equatioin
+* Mean
+* 12345679
+* Prime Number
+* Thank you for 600 Subscribers
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/@NewLand2019-JkhTV)
