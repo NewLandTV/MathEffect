@@ -36,12 +36,6 @@ void PlayBeep(int index, int octave, float seconds)
         61.7354,    // B
     };
 
-    // PI = 3.14
-    if (index + 48 == '.')
-    {
-        index = 10;
-    }
-
     int s = datas[index] * Pow(2, octave - 1);
 
     Beep(s, seconds * 1000);
