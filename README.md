@@ -12,6 +12,7 @@ This is a project that applies mathematics.
 * 12345679
 * Prime Number
 * Thank you for 600 Subscribers
+* 142857
 
 # **Links(링크)**
 
