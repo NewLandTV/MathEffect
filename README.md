@@ -13,6 +13,7 @@ This is a project that applies mathematics.
 * Prime Number
 * Thank you for 600 Subscribers
 * 142857
+* Imaginary Number
 
 # **Links(링크)**
 
